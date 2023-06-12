@@ -28,6 +28,6 @@ findings and communicate results to the founders
 [Github Repo](https://github.com/M0E313/name-entity-rec-FSL)
 
 ## Contact me on:
-[Email](mohamad.serhan.dsa@gmail.com)
+[Email](mailto:mohamad.serhan.dsa@gmail.com)
 
 [Linkedin](https://www.linkedin.com/in/serhan-mohamad/)
