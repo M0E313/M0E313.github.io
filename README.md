@@ -1,9 +1,9 @@
 # Data Scientist / AI Engineer
 
-#### Technical Skills: 
-### Programming Languages: Python, SQL, NoSQL, R, C++, Java
-### Libraries and Frameworks: Matplotlib, Seaborn, Pandas, Numpy, SciPy, Scikit-Learn, Prophet, Darts, Pytorch, Tensorflow, Keras
-### Cloud Computing and Containerization: AWS, OVH, Docker
+### Technical Skills: 
+#### Programming Languages: Python, SQL, NoSQL, R, C++, Java
+#### Libraries and Frameworks: Matplotlib, Seaborn, Pandas, Numpy, SciPy, Scikit-Learn, Prophet, Darts, Pytorch, Tensorflow, Keras
+#### Cloud Computing and Containerization: AWS, OVH, Docker
 
 ## Education
 - M.S. (bac +5), Computer Science (Data Science and Analytics track)	| EPITA (_April 2023_)	 			        		
@@ -11,7 +11,7 @@
 
 ## Work Experience
 **AI Engineer @ Helean (_Octobre 2022 - _April 2023)**
-
+![Helean](https://lh3.googleusercontent.com/p/AF1QipO0JXG196SRcjQs3qpxyAewKMm_I4PVFRaRHeve=s680-w680-h510)
 - Conducted data analysis on huge Time Series client financial datasets to gain insights and inform decision-making processes.
 - Extracted relevant information from large datasets to identify patterns and trends; it includes data mining.
 - Contributed to the development of machine learning, deep learning models and build a base recommender 
