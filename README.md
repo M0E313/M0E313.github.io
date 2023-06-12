@@ -14,17 +14,17 @@
 ![Helean](https://lh3.googleusercontent.com/p/AF1QipO0JXG196SRcjQs3qpxyAewKMm_I4PVFRaRHeve=s680-w680-h510)
 - Conducted data analysis on huge Time Series client financial datasets to gain insights and inform decision-making processes.
 - Extracted relevant information from large datasets to identify patterns and trends; it includes data mining.
-- Contributed to the development of machine learning, deep learning models and build a base recommender 
-system model for the clients (events description analysis and classifier using NLP and word embeddings).
+- Contributed to the development of machine and deep learning models, as well as the creation of a basic recommender system model for customers (event description analysis using NLP techniques and word embeddings using Spacy, nltk, Camembert, flair).
 - Worked with PyTorch, Scikit-learn, and TensorBoard for model development and optimization.
 - Contributed to data processing pipelines for data ingestion, transformation and feature engineering.
-- Used data visualization tools (Jupyter, Pycharm, VScode, Matplotlib, Seaborn, Pandas and Excel) to present 
-findings and communicate results to the founders
+- Used data visualization tools (Jupyter, Pycharm, VScode, Matplotlib, Seaborn, Pandas and Excel) to present findings and communicate results to the founders
 
 ## Projects
 ### Object Detection with YOLO: 
+![YOLO](https://uploads-ssl.webflow.com/614c82ed388d53640613982e/635bcc3d96817801e88530b2_634fd7b0644ce22bda756073_6320785e42cb953bb635aeec_evolution-of-YOLO.png)
 [Github Repo](https://github.com/M0E313/computer_vision/blob/master/computer_vision_0.ipynb)
 ### NLP name entity recognition using Few Shot Learning:
+![NER](https://editor.analyticsvidhya.com/uploads/19617Intro%20image.jpg)
 [Github Repo](https://github.com/M0E313/name-entity-rec-FSL)
 
 ## Contact me on:
