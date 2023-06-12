@@ -21,5 +21,7 @@ system model for the clients (events description analysis and classifier using N
 findings and communicate results to the founders
 
 ## Projects
-### Object Detection with YOLO: https://github.com/M0E313/computer_vision/blob/master/computer_vision_0.ipynb
-### NLP name entity recognition using Few Shot Learning: https://github.com/M0E313/name-entity-rec-FSL
+### Object Detection with YOLO: 
+[Github Repo](https://github.com/M0E313/computer_vision/blob/master/computer_vision_0.ipynb)
+### NLP name entity recognition using Few Shot Learning:
+[Github Repo](https://github.com/M0E313/name-entity-rec-FSL)
