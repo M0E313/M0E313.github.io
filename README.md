@@ -2,8 +2,9 @@
 
 ### Technical Skills: 
 #### Programming Languages: Python, SQL, NoSQL, R, C++, Java
-#### Libraries and Frameworks: Matplotlib, Seaborn, Pandas, Numpy, SciPy, Scikit-Learn, Prophet, Darts, Pytorch, Tensorflow, Keras
+#### Libraries and Frameworks: Matplotlib, Seaborn, Plotly, Pandas, Numpy, SciPy, Scikit-Learn, Prophet, Darts, Pytorch, Tensorflow, Keras, Spacy, nltk
 #### Cloud Computing and Containerization: AWS, OVH, Docker
+#### Data Viz tools: Excel, Tableau, Google Analytics, Dataiku, Dash
 
 ## Education
 - M.S. (bac +5), Computer Science (Data Science and Analytics track)	| EPITA (_April 2023_)	 			        		
