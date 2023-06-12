@@ -1,20 +1,25 @@
-# Data Scientist
+# Data Scientist / AI Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: 
+### Programming Languages: Python, SQL, NoSQL, R, C++, Java
+### Libraries and Frameworks: Matplotlib, Seaborn, Pandas, Numpy, SciPy, Scikit-Learn, Prophet, Darts, Pytorch, Tensorflow
+### Cloud Computing and Containerization: AWS, OVH, Docker
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S. (bac +5), Computer Science (Data Science and Analytics track)	| EPITA (_April 2023_)	 			        		
+- B.S. (bac +3), Computer and Communication Engineering | The University of Texas at Dallas (_August 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**AI Engineer @ Helean (_Octobre 2022 - _April 2023)**
+● Conducted data analysis on huge Time Series client financial datasets to gain insights and inform decision-making processes.
+● Extracted relevant information from large datasets to identify patterns and trends; it includes data mining.
+● Contributed to the development of machine learning, deep learning models and build a base recommender 
+system model for the clients (events description analysis and classifier using NLP and word embeddings).
+● Worked with PyTorch, Scikit-learn, and TensorBoard for model development and optimization.
+● Contributed to data processing pipelines for data ingestion, transformation and feature engineering.
+● Used data visualization tools (Jupyter, Pycharm, VScode, Matplotlib, Seaborn, Pandas and Excel) to present 
+findings and communicate results to the founders
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Object Detection with YOLO: https://github.com/M0E313/computer_vision/blob/master/computer_vision_0.ipynb
+### NLP name entity recognition using Few Shot Learning: https://github.com/M0E313/name-entity-rec-FSL
