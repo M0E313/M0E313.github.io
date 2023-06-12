@@ -12,13 +12,13 @@
 ## Work Experience
 **AI Engineer @ Helean (_Octobre 2022 - _April 2023)**
 
-● Conducted data analysis on huge Time Series client financial datasets to gain insights and inform decision-making processes.
-● Extracted relevant information from large datasets to identify patterns and trends; it includes data mining.
-● Contributed to the development of machine learning, deep learning models and build a base recommender 
+- Conducted data analysis on huge Time Series client financial datasets to gain insights and inform decision-making processes.
+- Extracted relevant information from large datasets to identify patterns and trends; it includes data mining.
+- Contributed to the development of machine learning, deep learning models and build a base recommender 
 system model for the clients (events description analysis and classifier using NLP and word embeddings).
-● Worked with PyTorch, Scikit-learn, and TensorBoard for model development and optimization.
-● Contributed to data processing pipelines for data ingestion, transformation and feature engineering.
-● Used data visualization tools (Jupyter, Pycharm, VScode, Matplotlib, Seaborn, Pandas and Excel) to present 
+- Worked with PyTorch, Scikit-learn, and TensorBoard for model development and optimization.
+- Contributed to data processing pipelines for data ingestion, transformation and feature engineering.
+- Used data visualization tools (Jupyter, Pycharm, VScode, Matplotlib, Seaborn, Pandas and Excel) to present 
 findings and communicate results to the founders
 
 ## Projects
@@ -29,4 +29,5 @@ findings and communicate results to the founders
 
 ## Contact me on:
 [Email](mohamad.serhan.dsa@gmail.com)
+
 [Linkedin](https://www.linkedin.com/in/serhan-mohamad/)
