@@ -12,6 +12,7 @@
 
 ## Work Experience
 **AI Engineer @ Helean (_Octobre 2022 - _April 2023)**
+
 ![Helean](https://lh3.googleusercontent.com/p/AF1QipO0JXG196SRcjQs3qpxyAewKMm_I4PVFRaRHeve=s680-w680-h510)
 - Conducted data analysis on huge Time Series client financial datasets to gain insights and inform decision-making processes.
 - Extracted relevant information from large datasets to identify patterns and trends; it includes data mining.
