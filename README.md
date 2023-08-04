@@ -22,6 +22,9 @@
 - Used data visualization tools (Jupyter, Pycharm, VScode, Matplotlib, Seaborn, Pandas and Excel) to present findings and communicate results to the founders
 
 ## Projects
+### End-to-End Text Summarizer: 
+![TextS](https://i0.wp.com/turbolab.in/wp-content/uploads/2021/09/Text-Summarization-NLP.jpg?resize=1000%2C579&ssl=1)
+[Github Repo](https://github.com/M0E313/Text_Summarizer_Project)
 ### Object Detection with YOLO: 
 ![YOLO](https://uploads-ssl.webflow.com/614c82ed388d53640613982e/635bcc3d96817801e88530b2_634fd7b0644ce22bda756073_6320785e42cb953bb635aeec_evolution-of-YOLO.png)
 [Github Repo](https://github.com/M0E313/computer_vision/blob/master/computer_vision_0.ipynb)
