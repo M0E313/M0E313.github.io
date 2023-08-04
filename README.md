@@ -2,8 +2,7 @@
 
 ### Technical Skills: 
 #### Programming Languages: Python, SQL, NoSQL, Bash, R, C++, Java
-#### Libraries and Frameworks: Matplotlib, Seaborn, Plotly, Pandas, Numpy, SciPy, Scikit-Learn, Prophet, Darts, Pytorch,
-Tensorflow, Keras, Spacy, nltk, Hugging Face, FastAPI, Streamlit
+#### Libraries and Frameworks: Matplotlib, Seaborn, Plotly, Pandas, Numpy, SciPy, Scikit-Learn, Prophet, Darts, Pytorch, Tensorflow, Keras, Spacy, nltk, Hugging Face, FastAPI, Streamlit
 #### Cloud Computing, Containerization and MLOps: AWS, OVH, Docker, CI/CD pipelines, unit testing
 #### Data Viz tools: Excel, Tableau, Google Analytics, Dataiku, Dash
 
@@ -32,6 +31,14 @@ Tensorflow, Keras, Spacy, nltk, Hugging Face, FastAPI, Streamlit
 ### NLP name entity recognition using Few Shot Learning:
 ![NER](https://editor.analyticsvidhya.com/uploads/19617Intro%20image.jpg)
 [Github Repo](https://github.com/M0E313/name-entity-rec-FSL)
+
+## Articles:
+### The Synergy Between AI and Nuclear/Renewable Energy: A Sustainable Future:
+![TextS](https://miro.medium.com/v2/resize:fit:1400/0*z4dm5SAmFEovHt4G)
+[Medium Article](https://medium.com/@mohamad.serhan.dsa/the-synergy-between-ai-and-nuclear-renewable-energy-a-sustainable-future-8503d5bb3c4d)
+### Discover the Power of Generative AI: Unleashing Innovation!:
+![TextS](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*P4RYFl7Efa3v_lEe67xHkg.png)
+[Medium Article](https://medium.com/@mohamad.serhan.dsa/discover-the-power-of-generative-ai-unleashing-innovation-dc4b6eaeffee)
 
 ## Contact me on:
 [Email](mailto:mohamad.serhan.dsa@gmail.com)
