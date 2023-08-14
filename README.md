@@ -25,12 +25,16 @@
 ### End-to-End Text Summarizer: 
 ![TextS](https://i0.wp.com/turbolab.in/wp-content/uploads/2021/09/Text-Summarization-NLP.jpg?resize=1000%2C579&ssl=1)
 [Github Repo](https://github.com/M0E313/Text_Summarizer_Project)
-### Object Detection with YOLO: 
-![YOLO](https://uploads-ssl.webflow.com/614c82ed388d53640613982e/635bcc3d96817801e88530b2_634fd7b0644ce22bda756073_6320785e42cb953bb635aeec_evolution-of-YOLO.png)
-[Github Repo](https://github.com/M0E313/computer_vision/blob/master/computer_vision_0.ipynb)
 ### NLP name entity recognition using Few Shot Learning:
 ![NER](https://editor.analyticsvidhya.com/uploads/19617Intro%20image.jpg)
 [Github Repo](https://github.com/M0E313/name-entity-rec-FSL)
+### Chest X-Ray images Classification with Tensorflow:
+![MedicalAI](https://www.emjreviews.com/wp-content/uploads/2023/03/Whats-New-Pic-1-6.jpg)
+[Github Repo](https://github.com/M0E313/Medical_Vision/blob/main/Building_a_Medical_Image_AI_Model.ipynb)
+### Object Detection with YOLO: 
+![YOLO](https://uploads-ssl.webflow.com/614c82ed388d53640613982e/635bcc3d96817801e88530b2_634fd7b0644ce22bda756073_6320785e42cb953bb635aeec_evolution-of-YOLO.png)
+[Github Repo](https://github.com/M0E313/computer_vision/blob/master/computer_vision_0.ipynb)
+
 
 ## Articles:
 ### The Synergy Between AI and Nuclear/Renewable Energy: A Sustainable Future:
