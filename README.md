@@ -1,7 +1,7 @@
 # Data Scientist / AI Engineer
 
 ### Technical Skills: 
-#### Programming Languages: Python, SQL, NoSQL, Bash, R, C++, Java
+#### Programming Languages: Python, SQL, NoSQL, Bash, Java
 #### Libraries and Frameworks: Matplotlib, Seaborn, Plotly, Pandas, Numpy, SciPy, Scikit-Learn, Prophet, Darts, Pytorch, Tensorflow, Keras, Spacy, nltk, Hugging Face, FastAPI, Streamlit
 #### Cloud Computing, Containerization and MLOps: AWS, OVH, Docker, CI/CD pipelines, unit testing
 #### Data Viz tools: Excel, Tableau, Google Analytics, Dataiku, Dash
