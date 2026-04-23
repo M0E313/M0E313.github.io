@@ -11,7 +11,7 @@
 - B.S. (bac +3), Computer and Communication Engineering | LIU (_August 2021_)
 
 ## Work Experience
-**AI and Data Consultant @ Quant AI Lab (_January 2024 - _Present)**
+**AI and Data Consultant @ Quant AI Lab (January 2024 - Present)**
 
 
 - Development of a data pipeline to collect ESG (Environmental, Social, and Governance) information from data on 30,000 companies in Spain.
@@ -27,7 +27,7 @@
 - Collaborated with the team to integrate MediaPipe, enabling tracking and localization of the employee scanning the boxes, ensuring accurate data capture and smooth workflow management.
 
 
-**AI Engineer @ Helean (_Octobre 2022 - _April 2023)**
+**AI Engineer @ Helean (Octobre 2022 - April 2023)**
 
 
 - Conducted data analysis on huge Time Series client financial datasets to gain insights and inform decision-making processes.
