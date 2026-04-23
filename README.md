@@ -11,6 +11,22 @@
 - B.S. (bac +3), Computer and Communication Engineering | LIU (_August 2021_)
 
 ## Work Experience
+**AI and Data Consultant @ Quant AI Lab (_January 2024 - _Present)**
+
+
+- Development of a data pipeline to collect ESG (Environmental, Social, and Governance) information from data on 30,000 companies in Spain.
+- Utilization of the database using GDELT data and GCP BigQuery to query and process news data at scale. 
+- Application of HuggingFace’s ESG classification model and BERT models for scoring on Vertex AI Workbench and GCE, followed by the development of a results visualization on a Streamlit dashboard to generate insights. 
+- Orchestration and industrialization of the pipeline on GCP via Cloud Composer to schedule/monitor workflows, and Dataflow to execute distributed processing (data ingestion, transformation) at scale.
+- Development of a chatbot capable of answering questions based on PDF documents uploaded by the client.
+- Implementation of the RAG system to improve the chatbot’s accuracy in understanding and answering questions. 
+- Integration of LangChain and the OpenAI API with the GPT model to facilitate conversational responses and knowledge extraction from PDFs. 
+-	Implementation of an agent-based workflow with LangGraph to orchestrate the chatbot’s reasoning (query routing, retrieval steps, context verification, rephrasing if necessary) and ensure reliable responses via state graph execution.
+- Developed a warehouse box monitoring system that uses computer vision techniques to estimate the volume of each box, thereby supporting inventory management.
+- Implemented VILD for object detection and InstantMesh for 3D reconstruction to analyze and map the warehouse environment using a collaborative approach. 
+- Collaborated with the team to integrate MediaPipe, enabling tracking and localization of the employee scanning the boxes, ensuring accurate data capture and smooth workflow management.
+
+
 **AI Engineer @ Helean (_Octobre 2022 - _April 2023)**
 
 
